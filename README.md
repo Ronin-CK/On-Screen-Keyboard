@@ -1,4 +1,4 @@
-# Quickshell Standalone OSK
+# Quickshell OSK
 
 A lightweight, floating on-screen keyboard widget built for **Quickshell**. It operates as a standalone overlay window and uses `ydotool` for broad input compatibility across Wayland compositors.
 
